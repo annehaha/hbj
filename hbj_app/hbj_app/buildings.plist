@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>酒吧</key>
+	<string>ktv</string>
+	<key>KTV</key>
+	<string>ktv</string>
+	<key>码头堆场</key>
+	<string>dock</string>
+	<key>移动车载</key>
+	<string>car</string>
+	<key>道路</key>
+	<string>road</string>
+	<key>工矿企业</key>
+	<string>factory</string>
+	<key>建筑工地</key>
+	<string>building</string>
+</dict>
+</plist>

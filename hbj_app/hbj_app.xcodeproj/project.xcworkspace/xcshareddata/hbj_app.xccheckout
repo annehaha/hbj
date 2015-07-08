@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7BED08B-A6AA-422A-9B49-D5CB5C6D82BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hbj_app</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>85C062DF4CADA8C0F4F0E3A154A83F8EF6F08393</key>
+		<string>http://202.120.40.98:40080/asegroup9/environmental-monitoring-system-on-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>项目工程/客户端/hbj_app/hbj_app.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>85C062DF4CADA8C0F4F0E3A154A83F8EF6F08393</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://202.120.40.98:40080/asegroup9/environmental-monitoring-system-on-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>85C062DF4CADA8C0F4F0E3A154A83F8EF6F08393</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>85C062DF4CADA8C0F4F0E3A154A83F8EF6F08393</string>
+			<key>IDESourceControlWCCName</key>
+			<string>environmental-monitoring-system-on-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
